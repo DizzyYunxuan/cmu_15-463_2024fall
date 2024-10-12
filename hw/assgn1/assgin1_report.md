@@ -130,3 +130,6 @@ Run command:
 `-e`: Extract  the  camera-generated  thumbnail,  not the raw image.  You'll get either a JPEG or a PPM file, depending on the camera.
 
 File generated path: `hw/assgn1/data/campus.thumb.jpg`
+|![](./experiments/srgb_non_linear.png)|![](./data/campus.jpg)|![](./data/campus.thumb.jpg)|
+|:--:|:--:|:--:|
+|*Python Pipeline*|*Camera Pipeline*|*DcRaw Pipeline*|

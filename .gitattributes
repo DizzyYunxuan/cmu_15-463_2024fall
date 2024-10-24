@@ -1,3 +1,10 @@
+hw/assgn1.zip filter=lfs diff=lfs merge=lfs -text
+hw/assgn2.zip filter=lfs diff=lfs merge=lfs -text
 lectures/lecture_01.pdf filter=lfs diff=lfs merge=lfs -text
 lectures/lecture_02.pdf filter=lfs diff=lfs merge=lfs -text
-hw/assgn1.zip filter=lfs diff=lfs merge=lfs -text
+lectures/lecture_03.pdf filter=lfs diff=lfs merge=lfs -text
+lectures/lecture_04.pdf filter=lfs diff=lfs merge=lfs -text
+lectures/lecture_05.pdf filter=lfs diff=lfs merge=lfs -text
+lectures/lecture_06.pdf filter=lfs diff=lfs merge=lfs -text
+lectures/lecture_07.pdf filter=lfs diff=lfs merge=lfs -text
+hw/assgn2/data/door_stack.zip filter=lfs diff=lfs merge=lfs -text
